@@ -12,10 +12,10 @@
 
 <table>
     <tr align="center">
-      <th><img width="60px"  src="picture/004.jpg"></th>
-      <th><img width="60px" src="picture/004.jpg"></th>
-      <th><img width="60px" src="picture/004.jpg"></th>
-      <th><img width="60px" src="picture/004.jpg"></th>
+      <th><img width="60px"  src="picture/002.jpg"></th>
+      <th><img width="60px" src="picture/002.jpg"></th>
+      <th><img width="60px" src="picture/002.jpg"></th>
+      <th><img width="60px" src="picture/002.jpg"></th>
     <tr>
   <td align="center"><a href="#一.数据结构">数据结构</a></td>
   <td align="center"><a href="#二.算法">算法</a></td>
