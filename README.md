@@ -1,4 +1,4 @@
-# Java-for-Algorithms
+# Java-for-Algorithms (完善中)
 
 
 
@@ -47,8 +47,8 @@
 
 ## 二、算法
 
-1. [Hive 简介及核心概念](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Hive简介及核心概念.md)
-2. [Linux 环境下 Hive 的安装部署](https://github.com/heibaiying/BigData-Notes/blob/master/notes/installation/Linux环境下Hive的安装部署.md)
+1. [字符统计](https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md#01%E5%AD%97%E7%AC%A6%E7%BB%9F%E8%AE%A1)
+2. [冒泡排序](https://github.com/321cto/Java-for-Algorithms/blob/master/note/%E7%AE%97%E6%B3%95001.md#02%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F)
 3. [Hive CLI 和 Beeline 命令行的基本使用](https://github.com/heibaiying/BigData-Notes/blob/master/notes/HiveCLI和Beeline命令行的基本使用.md)
 4. [Hive 常用 DDL 操作](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Hive常用DDL操作.md)
 5. [Hive 分区表和分桶表](https://github.com/heibaiying/BigData-Notes/blob/master/notes/Hive分区表和分桶表.md)
